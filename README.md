@@ -9,6 +9,7 @@ This library's design is inspired by [How To Write A Maths Library In 2016](http
 
  - [ ] 2D, 3D, and 4D vector types (Currently only Vec3)
  - [ ] 2D, 3D, and 4D matrix types (Currently only Matrix4)
+ - [ ] Quaternion type
  - [ ] SSE2 SIMD for 3D+ data types
  - [ ] 100% test coverage
  - [ ] Integer versions of data types (IVec2, IMatrix4, etc.)
